@@ -2,9 +2,9 @@ how to run
 ---------------
 
 compile server:
-  javac src/seguridad20222_servidor/*.java
+  javac src/security_server/*.java
 run server:
-  java -classpath src seguridad20222_servidor.ServidorMain
+  java -classpath src security_server.ServerMain
 ---
 compile client
   javac src/security_client/*.java
